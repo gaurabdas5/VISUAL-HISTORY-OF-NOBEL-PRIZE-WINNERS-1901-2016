@@ -2,6 +2,8 @@
 
 # A VISUAL HISTORY OF NOBEL PRIZE WINNERS (1901-2016)
 
+#This task will be helpful in learning the package tidyverse (dyplr, pipe operator) and ggplot (visualization)
+
 # Import libraries
 library('tidyverse')
 library('lubridate')
