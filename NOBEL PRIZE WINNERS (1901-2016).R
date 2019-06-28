@@ -1,5 +1,4 @@
-#
-options(repos="https://CRAN.R-project.org")
+#Gaurab Das
 
 # A VISUAL HISTORY OF NOBEL PRIZE WINNERS (1901-2016)
 
